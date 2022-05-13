@@ -1,7 +1,7 @@
 {
   "main.css": "/Translator/static/css/main.caeacec5.chunk.css",
-  "main.js": "/Translator/static/js/main.b9e78ab3.chunk.js",
-  "main.js.map": "/Translator/static/js/main.b9e78ab3.chunk.js.map",
+  "main.js": "/Translator/static/js/main.bf92e584.chunk.js",
+  "main.js.map": "/Translator/static/js/main.bf92e584.chunk.js.map",
   "static/js/1.cc360fb6.chunk.js": "/Translator/static/js/1.cc360fb6.chunk.js",
   "static/js/1.cc360fb6.chunk.js.map": "/Translator/static/js/1.cc360fb6.chunk.js.map",
   "static/js/2.5b977f20.chunk.js": "/Translator/static/js/2.5b977f20.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/Translator/static/js/runtime~main.0cd2ab5f.js.map",
   "static/css/main.caeacec5.chunk.css.map": "/Translator/static/css/main.caeacec5.chunk.css.map",
   "index.html": "/Translator/index.html",
-  "precache-manifest.328375e82147400fb373fd45ac820387.js": "/Translator/precache-manifest.328375e82147400fb373fd45ac820387.js",
+  "precache-manifest.8c6d9a9d644f227743d972193c1a706f.js": "/Translator/precache-manifest.8c6d9a9d644f227743d972193c1a706f.js",
   "service-worker.js": "/Translator/service-worker.js"
 }
